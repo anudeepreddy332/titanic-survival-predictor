@@ -4,7 +4,7 @@ This project explores the Titanic passenger dataset to predict survival outcomes
 
 ---
 
-## 📁 Dataset
+## 📁 Data
 
 - `train.csv` — Training data (891 passengers)
 - `test.csv` — Test data for Kaggle submission (418 passengers)
