@@ -43,7 +43,7 @@ This project explores the Titanic passenger dataset to predict survival outcomes
 ### 4. Kaggle Submission
 - Predictions made using final model on test set
 - Exported to `submission.csv`
-- Achieved Kaggle Score: *[Add your actual score]*
+- Achieved Kaggle Score: *0.75358*
 
 ---
 
@@ -58,10 +58,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 📊 Results Summary
 
 | Model               | Accuracy |
-|--------------------|----------|
-| Logistic Regression| ~78%     |
-| Random Forest      | ~82%     |
-| Kaggle Score       | *[Add score]* |
+|--------------------|--------|
+| Logistic Regression| ~78%   |
+| Random Forest      | ~82%   |
+| Kaggle Score       | ~75%    |
 
 ---
 
